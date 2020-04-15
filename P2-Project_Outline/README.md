@@ -22,7 +22,7 @@ Employees will then be able to create, edit, and delete information about backli
 Employees and admins will be able to view summary information and regular reports.
 
 This project was motivated from discussions I have had with someone who runs a web design and seo business.
-I think this would be useful to the company as an organized repository of all business activies would increase efficiency and provide an opportunity for new insights to made for improving the company.
+I think this would be useful to the company as an organized repository of all business activies would increase efficiency and provide an opportunity for new insights to be made for improving the company.
 
 ### Features
 
@@ -62,7 +62,7 @@ My project will track the business activites of someone delivering food through 
 Users can create accounts and log in to add, view, edit, and delete their records for each delivery, shift, and expense.
 Daily, weekly, monthly, and yearly reports can be viewed displaying information such as net or hourly base pay, tips, revenue, cost, profit, milage, MPG, gallons of gas, or time spent working.
 Additionally reports can display the quantities above aggregated by the day of the week, time of day, or pickup restuarant.
-Furthermore, a users data will be used to calcualate the amount which should be quarterly in estimated taxes.
+Furthermore, a users data will be used to calcualate the amount which should be paid quarterly in estimated taxes.
 
 This idea came about as a way for me to apply the new skills I have been learning to a problem I have been facing while working as a driver for Postmates.
 Currently I am storing and computing most of the above information in google sheets which are somewhat limited and are becoming more difficult to debug and maintain.
